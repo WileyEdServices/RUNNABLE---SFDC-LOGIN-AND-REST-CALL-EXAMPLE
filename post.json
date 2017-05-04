@@ -1,0 +1,6 @@
+{
+ "Identifier Parameter": "<Your Unique Identifier>",
+ "Paramerer 1": ["<Value 1>" , "<Value 2>", ....],
+ "Paramerer 2": "<Value 1>",
+ "Authentication Parameter": "<Authentication Key>"
+}
